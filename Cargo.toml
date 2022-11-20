@@ -1,0 +1,3 @@
+[workspace]
+members = ["rhino2d-engine", "rhino2d-io", "rhino2d-wgpu"]
+resolver = "2"

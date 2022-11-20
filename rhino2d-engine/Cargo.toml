@@ -1,0 +1,10 @@
+[package]
+name = "rhino2d-engine"
+description = "Animation and physics engine for Inochi2D models"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rhino2d-io = { path = "../rhino2d-io", version = "0.1.0" }
+nalgebra = "0.31.0"
+log = "0.4.17"
